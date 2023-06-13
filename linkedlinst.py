@@ -64,8 +64,8 @@ class LinkedList:
         self.head = None
         for data in data_list:
             self.inser_at_end(data)
-        print("List is inserted")
         print(self.printList())
+    print("List is inserted")
         
         
         
